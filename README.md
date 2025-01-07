@@ -1,15 +1,6 @@
 
-# Página de Login com Angular
+# Página de Login com SPRING SECURITY + JWT | BACKEND
 
-Projeto de login simples feito durante a aula de Fernanda Kipper no Youtube (Angular + Spring Boot CRUD Full Stack Application | Front-end) para aprender e aplicar os conceitos de Angular
+Projeto de login simples feito durante a aula de Fernanda Kipper no Youtube (Projeto Fullstack com login usando Spring Security | Backend) para aprender e aplicar os conceitos do Spring
 
-## 🔧 Pré-requisitos
 
-- Node.js
-- Git 2
-- Angular CLI
-
-## 🚀 Starting
-
-- cd project-name
-- npm run start
